@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/isaacms85-github-thumbnail.png
-title: "My old personal github page of games"
+title: "My old personal github page of games."
 date: 2019
 published: true
 labels:
