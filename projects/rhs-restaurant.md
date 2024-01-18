@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/rhs-order-pg.png
-title: "RHS Restaurant"
+title: "RHS Restaurant Project"
 date: 2019
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - CSS
   - JS
   - JSON
-summary: "An old restaurant project for high school that made use of a JSON file"
+summary: "An old restaurant project for high school that made use of a JSON file."
 ---
 
 <img height="200px" class="img-thumbnail" src="../img/rhs-hamburger.png">
