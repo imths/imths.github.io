@@ -8,7 +8,7 @@ labels:
   - Computer Science
 ---
 
-<img height="200px" class="img-thumbnail" src="..img/js-reflection/ES6JS.png">
+<img height="200px" class="img-thumbnail" src="img/js-reflection/ES6JS.png">
 
 JavaScript is a programming language that is used across the vast majority of the web and its sites to include interaction with the user and add certain behaviors to a page’s elements. It is one of the core essential languages that helps the gears of the World Wide Web continue to turn and work smoothly. Knowledge of the language should be a must for anyone interested in programming or aiming to begin development of their own, and can turn a plain, decent website to a complex and great one.
 
