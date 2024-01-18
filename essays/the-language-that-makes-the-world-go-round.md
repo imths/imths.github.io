@@ -14,7 +14,7 @@ JavaScript is a programming language that is used across the vast majority of th
 
 ## JavaScript after 6 years
 
-<div float="left">
+<div style="float:left">
   <img height="200px" class="img-thumbnail" src="../img/js-reflection/JSHistory.png">
 </div>
 
