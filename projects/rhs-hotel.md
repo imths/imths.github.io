@@ -13,7 +13,7 @@ summary: "A small project that I worked on in high school that implemented a sim
 ---
 
 <div class="text-center p-4">
-  <img height="320px" src="../img/rhs-hotel.png" class="img-thumbnail" >
+  <img height="200px" src="../img/rhs-hotel.png" class="img-thumbnail" >
 </div>
 
 Back when I was in high school beginning to learn about HTML, CSS, and JS, and how they can be used together, our teacher assigned us a project to create a sample page that a hotel might use. The page includes six rooms with individual guest lists of who is currently residing in each room, the ability to add and remove guests, lock and unlock the room to prevent new guests from checking in, and an overall guest log of all guests who have checked into the hotel, even if they have left already.
