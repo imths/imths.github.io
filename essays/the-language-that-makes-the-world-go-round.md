@@ -14,7 +14,7 @@ JavaScript is a programming language that is used across the vast majority of th
 
 ## JavaScript after 6 years
 
-<img height="200px" class="img-thumbnail" src="../img/js-reflection/JSHistory.png" align="left">
+<img height="200px" class="img-thumbnail" src="../img/js-reflection/JSHistory.png" align="right">
   
 I have worked with JavaScript in previous projects, and am familiar with the basic workings of the language, enough to support some of the ideas I made into reality, but there will always be some things that I have yet to learn. I began learning and working with JS around six or seven years ago, when I first embarked on my coding/programming journey after I became interested in the field and started taking some related classes in high school. Just recently, when going through some courses that went over the basics of JavaScript and how to use the different parts and components of the language, there were many new topics presented to me, mainly from the (fairly) recent addition of ECMAScript 6 (ES6). In past projects, I had used only what I knew at the time, which would have been around the time where ES 6 had been out for only a couple of years and when I was still learning JS.
 
