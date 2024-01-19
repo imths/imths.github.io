@@ -28,6 +28,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+    },
+    {
+      "name": "Experience with IDE's and Version Control",
+      "keywords": [ "Visual Studio Code", "IntelliJ IDEA", "Git/Github" ]
     }
   ],
   "education": [
@@ -57,16 +61,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarship awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.6 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "STEM Honors & Summa Cum Laude Graduate",
+      "date": "2021",
+      "awarder": "Hawaii Department of Education",
+      "summary": "High school graduation certificates for students who maintained a 3.8+ GPA in high school and took higher level math and science classes, as well as STEM focused courses."
     }
   ],
   "references": [
