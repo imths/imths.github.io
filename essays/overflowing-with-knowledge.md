@@ -28,7 +28,8 @@ There should be as much background information given as needed for readers to fu
 
 <img height="200px" class="img-thumbnail" src="../img/stack-overflow/question.png">
 
-In the future, I would like to be able to comfortably handle both the front and back-end sides of any project that I happen to come across or start one day. If I were to develop the skills to do this, it would widen the number of possibilities and opportunities that I would be able to take advantage of and I would be able to bring a lot more to the table. Plus, I have always enjoyed seeing the interactions between things all around me, and trying to figure out how they work, and if any problems were to come up, I would always try and come up with ideas of my own on how to fix them or why they happened. I am currently working in a team that handles the UI and API side of a web application for UH, but am not yet fully confident in my ability to smoothly tackle problems and integrate solutions or new features.
+Going through and searching Stack Overflow for questions is something that many developers are familiar with, as whenever they encounter a problem, one of the first logical steps would be to see if anyone else had also encountered the same problem, and if said problem already has a solution out there somewhere on the internet.
+Using their search filter options, it is easy to find good examples of good questions, which is exactly what I did to find this question posted around 14 years ago, with 10 answers as of right now, 2024, all of which have been upvoted or approved by any other readers or respondents that also came across the question. The original poster asked about the capabilities JavaScript in terms of encapsulating functions in different wrappers like parenthesis or curly brackets, and provides different examples of what he found to work and already understands.
 
 ## Bridging the Gap Between Software and Hardware
 
