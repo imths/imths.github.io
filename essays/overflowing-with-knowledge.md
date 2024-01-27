@@ -34,8 +34,8 @@ Using their search filter options, it is easy to find good examples of good ques
 ## Question Analysis
 
 <div>
-  <img width="600px" class="img-thumbnail" src="../img/stack-overflow/que-ask.png">
-  <img width="600px" class="img-thumbnail" src="../img/stack-overflow/que-summary.png">
+  <img width="700px" class="img-thumbnail" src="../img/stack-overflow/que-ask.png">
+  <img width="700px" class="img-thumbnail" src="../img/stack-overflow/que-summary.png">
 </div>
 
 <a href="https://stackoverflow.com/questions/1634268/explain-the-encapsulated-anonymous-function-syntax">This question</a> is a brilliant example of a smart question, firstly because the poster made it very clear as to what they wanted answered, providing as much background information as they could, in the form of code that they understands already. And while they did write a lot in their description, there was just the right amount of information, enough to be precise and straight to the point but not too much to deter possible answerers.
