@@ -33,7 +33,7 @@ Using their search filter options, it is easy to find good examples of good ques
 
 ## Question Analysis
 
-<div">
+<div>
   <img height="150px" class="img-thumbnail" src="../img/stack-overflow/que-ask.png">
   <img height="150px" class="img-thumbnail" src="../img/stack-overflow/que-summary.png">
 </div>
