@@ -79,4 +79,4 @@ From this project I learned how to map certain script functions from JavaScript 
       }
 ```
 
-Source: <a href="https://github.com/isaseg/Restaurant-stuff">isaseg/restaurant</a>
+Source: <a href="https://github.com/isaseg/hotel-project">isaseg/hotel</a>
