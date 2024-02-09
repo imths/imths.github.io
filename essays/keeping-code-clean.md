@@ -15,7 +15,7 @@ Coding standards are certain rules and habits that programmers are generally exp
 
 ## Learning with and without Coding Standards
 
-<img height="200px" class="img-thumbnail" src="../code-standards/coding-confusion.png">
+<img height="200px" class="img-thumbnail" src="../img/code-standards/coding-confusion.png">
 
 When learning a new programming language, it is important that the examples given to you are easily digestible and understandable, to ensure that you are able to then take that knowledge and apply it to any other scenario you deem fit. The same can be said for more hands-on or on the site learning, where you are thrown into the working environment, and forced to learn what you can about the languages being used in a project and how they are actually being used. In these situations, without clean and comprehensible code, learning becomes much tougher than it should be, and would likely take more time and effort put forward to actually learning the language, making progress almost nonexistent. Being able to practice with coding standards also builds good habits in programming and working with any language, and making sure to keep up with the standards and conventions for the code will ensure that you are thinking about what you are doing in your code, and how to format everything to the best of your abilities.
 
