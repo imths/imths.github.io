@@ -38,7 +38,9 @@ Within each class page there will be a description of the tutorial/class and a w
 
 # Use case ideas
 New users: Landing page -> Sign Up/Profile Creation -> Skill “Hub” -> Search -> Specific Skill page
+
 Admins: Landing page -> Sign In -> Reported Tutorials -> Edits/Deletes tutorials
+
 Users: Landing page -> Sign In -> Skill “Hub” -> Search -> Specific Skill page
 
 # Beyond the basics
