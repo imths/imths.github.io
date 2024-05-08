@@ -15,10 +15,10 @@ Artificial Intelligence, or AI for short, is a tool often used in many different
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18<br>
-  I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, as I personally do not find I learn with AI better.
+I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, as I personally do not find I learn with AI better.
 
   2. In-class Practice WODs<br>
-     I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, and I would learn of new ways to complete these tasks through the professor/TA's demonstrations.
+I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, and I would learn of new ways to complete these tasks through the professor/TA's demonstrations.
 
   3. In-class WODs<br>
 I have not used AI for this element, as I felt it was important I attempt these "workouts" on my own to demonstrate my own understanding of the material.
