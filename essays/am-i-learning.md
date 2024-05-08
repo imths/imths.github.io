@@ -14,47 +14,46 @@ Artificial Intelligence, or AI for short, is a tool often used in many different
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-  1. Experience WODs e.g. E18
+  1. Experience WODs e.g. E18<br>
+  I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, as I personally do not find I learn with AI better.
 
-I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, as I personally do not find I learn with AI better.
+  2. In-class Practice WODs<br>
+     I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, and I would learn of new ways to complete these tasks through the professor/TA's demonstrations.
 
-  2. In-class Practice WODs
-I have not used AI for this element, as I felt it was important I attempt and learn through these experiences on my own, and I would learn of new ways to complete these tasks through the professor/TA's demonstrations.
-
-  3. In-class WODs
+  3. In-class WODs<br>
 I have not used AI for this element, as I felt it was important I attempt these "workouts" on my own to demonstrate my own understanding of the material.
 
-  4. Essays
+  4. Essays<br>
 I have not used AI for this element, since I prefer to convey my ideas through my own words, and would feel uncomfortable submitting works of writing that are not my own, due to how I grew up in schools forbidding using others' words as my own, which I consider AI to be a part of.
 
-  5. Final project
+  5. Final project<br>
 I have not used AI for this element, but would if I were to get stuck on the implementation of any part of our final project and could not find what I needed through a Google search.
 
-  6. Learning a concept / tutorial
+  6. Learning a concept / tutorial<br>
 I have not used AI for this element, but will in the future if I am having enough trouble grasping the ideas/concepts that are being used, and unable to find any other helpful sources online.
 
-  7. Answering a question in class or in Discord
+  7. Answering a question in class or in Discord<br>
 I have not used AI for this element, as I would prefer to convey my own ideas/thoughts, but would if someone asked me a question on a field/topic that I was not confident in my abilities in.
 
-  8. Asking or answering a smart-question
+  8. Asking or answering a smart-question<br>
 I have not used AI for this element, but would if I was especially stuck and entirely out of ideas on my questions.
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  9. Coding example e.g. “give an example of using Underscore .pluck”<br>
 I have not used AI for this element, as I tend to look up coding examples online rather than asking AI, but if I wanted to see a more specific use of code or libraries, then I would use AI.
 
-  10. Explaining code
+  10. Explaining code<br>
 I have not used AI for this element, as most of the code I write myself I am able to understand and therefore explain, but I would use AI if I could not find anything on Google (one example being arrow or lambda operations in Java/Javascript, although I used Google for these examples back then).
 
-  11. Writing code
+  11. Writing code<br>
 I have not used AI for this element, as I can usually come up with ideas on implementation on my own or with some help from the Internet, but may try to do so more in the future.
 
-  12. Documenting code
+  12. Documenting code<br>
 I have not used AI for this element, since if I am asked to document code then I want to be able to do so on my own, to ensure that I actually understand the code itself as well.
 
-  13. Quality assurance 
+  13. Quality assurance <br>
 I have used AI for this element, as linters and many IDEs incorporate AI to help ensure the code I write is up to certain standards and neat.
 
-  14. Other uses in ICS 314 not listed above
+  14. Other uses in ICS 314 not listed above<br>
 I have not used AI for this element, since I value my own learning over anything else, since most of the skills I learn will most likely be skills that I might need in the future.
 
 
