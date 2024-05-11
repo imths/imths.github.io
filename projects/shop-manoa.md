@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/shop-manoa/shop-manoa.logo.png
+image: img/shop-manoa/shop-manoa-logo.png
 title: "Shop-Manoa"
 date: 2024
 published: true
@@ -24,4 +24,5 @@ I was one of six contributors to this project, and we all worked together to imp
 From this project I learned more on how to work with a team to create a web application that serves a population of users, on top of my work experiences. Part of this project that was different from my workplace was how much the team and I communicated with each other, since at work we all tend to take on our own tasks and work on them individually, reaching out when we would need help or ask for opinions, since our project is already quite large enough that we are all working on separate aspects of the application. For this project however, we were starting from the beginning, building up the project piece by piece, which required a lot more teamwork and communication to ensure that everything would fit and run together.
 
 Source code: <a href="https://github.com/shop-manoa/shop-manoa">shop-manoa/shop-manoa</a>
+
 Website: <a href="https://shop-manoa.com/">Shop-Manoa</a>
